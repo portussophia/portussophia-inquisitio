@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+
+message: "Please cite the specific work and version used. The repository citation metadata does not replace work-specific citations."
+
+type: generic
+
+title: "PortusInquisitio™ — A Haven of Inquiry"
+
+authors:
+
+  - family-names: Dennis
+
+    given-names: James Roy
+
+repository-code: "https://github.com/portussophia/portussophia-inquisitio"
+
+license-url: "https://github.com/portussophia/portussophia-inquisitio/blob/main/LICENSE.md"
+
