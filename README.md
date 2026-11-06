@@ -134,6 +134,9 @@ Public accessibility does not itself confer permission for unauthorized reproduc
 Scholarly citation and engagement remain distinguishable from endorsement, ownership, and adoption.
 
 
+For scholarly citation and attribution, see the [repository Citation Policy](https://github.com/portussophia/portussophia-inquisitio/blob/main/CITATION_POLICY.md).
+
+
 ---
 
 
